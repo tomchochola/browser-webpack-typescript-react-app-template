@@ -1,200 +1,216 @@
-# Preview [https://github.com/premierstacks/react-template](https://github.com/premierstacks/react-template)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/react-template** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks//home/tom/src/github/premierstacks/browser-webpack-typescript-react-app-template/](https://github.com/premierstacks//home/tom/src/github/premierstacks/browser-webpack-typescript-react-app-template/)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/react-template** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/react-template](https://github.com/premierstacks/react-template)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/react-template**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/react-template](https://github.com/premierstacks/react-template)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
-# [React Template](https://github.com/premierstacks/react-template) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Kickstart React projects with ease: our template includes essential setups and tooling for dynamic web app development. Streamline your workflow for efficient, high-quality builds.
+**Original content starts here!**
 
-Our React Template is crafted to expedite your development process, providing a sophisticated setup with premium tooling configurations for building dynamic and responsive web applications. This starter kit is designed to get you up and running quickly, bypassing the usual setup hurdles. It encompasses React best practices and the latest development trends, ensuring your project is built on a robust, future-proof foundation. From essential configurations like ESLint and Prettier to advanced setups for React Router and Webpack, everything is pre-configured to enhance your productivity and project quality from the start.
+---
 
-## 👌 Top Reasons to Opt for Our Premium React Template
+# [Browser Webpack TypeScript React App Template](https://github.com/premierstacks/browser-webpack-typescript-react-app-template) by [Tomáš Chochola](https://github.com/tomchochola)
 
-By integrating our Premium React Template into your development process, you're not just beginning a project; you're embracing a strategic advantage that enhances development efficiency, ensures code quality, and elevates the user experience of your web applications.
+✨ _**Clone and Win!**_
 
-### ⏱️ Setup in Just 5 Minutes
+The Browser Webpack TypeScript React App Template offers a complete foundation for developing modern browser-based applications with TypeScript, React, and Webpack. Featuring pre-configured setups for React components, TypeScript, and asset optimization, this template streamlines your development workflow while ensuring clean and maintainable code. It’s designed to help developers start coding quickly with all the necessary tools integrated, including ESLint, Prettier, and Stylelint for code quality and consistency.
 
-Kickstart your React projects with unparalleled ease using our React Template. Designed for a swift setup, this template allows you to jump straight into development, bypassing the usual configuration hurdles and boilerplate setup.
+## What is Browser Webpack TypeScript React App Template?
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+The Browser Webpack TypeScript React App Template is a carefully designed template that accelerates frontend development by providing a pre-configured environment for building React applications with TypeScript. It leverages Webpack to handle bundling, transpilation, and asset management, making it a powerful starting point for creating efficient and scalable browser applications.
 
-Benefit from our comprehensive research into React best practices, premium tooling configurations, and the latest in web development trends. Our React Template is a distilled essence of industry expertise, ensuring your project is built on a solid, future-proof foundation.
+This template comes with built-in configurations for TypeScript, ensuring seamless compilation of JSX and TSX files, and it fully integrates ESLint for React and TypeScript linting, Prettier for automatic code formatting, and Stylelint for enforcing CSS and SCSS styling standards. Additionally, it supports Webpack plugins for optimizing HTML, CSS, images, and other assets, helping maintain high performance and streamlined workflows.
 
-### 🎚️ Minimal Setup, Maximum Productivity
+With support for Webpack DevServer and hot module replacement, you can create a smooth development experience, minimizing downtime and speeding up iterations. The template also includes a Makefile that simplifies command-line operations, from starting the development server to running code checks and preparing for production deployment.
 
-Dive into your React projects with a template that’s pre-configured for efficiency. From ESLint and Prettier to Stylelint and Webpack, we've taken care of the setup so you can focus on creating dynamic and responsive web applications.
+## What is Tomchochola
 
-### 📘 Zero Expertise Required
+[https://gitub.com/tomchochola](https://gitub.com/tomchochola)
 
-Whether you're a seasoned React developer or new to the ecosystem, our React Template is designed to be intuitive and easy to use. With clear documentation and a scalable project structure, you can start building immediately, regardless of your experience level.
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-### 🔄 Continuously Updated
+## What is Premierstacks
 
-Stay ahead of the curve in the fast-paced world of web development. Our React Template is regularly updated to incorporate the latest React features, optimizations, and best practices, keeping your projects modern and competitive.
+[https://gitub.com/premierstacks](https://gitub.com/premierstacks)
 
-### ⚔️ Battle-Tested Reliability
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-Depend on a React starter kit that has been rigorously tested across diverse web applications. Our template provides a reliable and maintainable starting point for your React projects, ensuring high-quality results from the get-go.
+## Why Premierstacks?
 
-### 🏆 Premier Quality Guarantee
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-Choosing our React Template is a testament to your commitment to excellence. This isn't just a starting point for React projects; it's a comprehensive development environment that sets you up for success, reflecting the highest standards in web development.
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-## 🛡️ License & Usage
+### Why You Should Choose Premierstacks
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+**🚀 Unmatched Quality**
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+**⚙️ No Setup Hassles**
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**📦 Reuse Across Projects**
 
-### Acquiring a License
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-To use this template, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+**🔒 Exclusive Resources**
 
-### Note on Proprietary Dependencies
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-This template may include or rely on proprietary libraries/packages.<br />
-Review and ensure your license covers the usage of these dependencies, or remove/replace them as needed.
+**🛠️ Always Up-to-Date**
 
-## 🖍️ Highlights
+Receive continuous updates and new features, keeping your projects current.
 
-- **React-Specific Configuration**: Tailored specifically for React development, this template includes setups for React Router and optimized build processes for React applications.
-- **Comprehensive Premium Configurations**: Leverages Tomáš Chochola's premium configurations for ESLint, Prettier, Stylelint, TypeScript, and Webpack, ensuring code quality and consistency.
-- **Development Efficiency**: Offers predefined Makefile commands for routine tasks like linting, building, and serving, enhancing your development workflow.
-- **Scalable Project Structure**: With a clear and maintainable structure, including components and routes, this template is ideal for React projects of any scale.
+**💪 Expert Creators**
 
-## 🎨 Preconfigured Features
+Developed by experienced professionals dedicated to quality and excellence.
 
-The React Template encapsulates a myriad of preconfigured features to streamline the development of dynamic and responsive web applications:
+## License
 
-- **ESLint**: Utilizes `@premierstacks/eslint-stack` for JavaScript and TypeScript linting, ensuring adherence to coding standards and enhancing code quality.
-- **Prettier**: Integrated with `@premierstacks/prettier-stack` for code formatting, providing a consistent code style across the project.
-- **Stylelint**: Configured with `@premierstacks/stylelint-stack` for CSS and SCSS linting, maintaining the quality and consistency of stylesheets.
-- **TypeScript Configuration**: Incorporates `@premierstacks/typescript-stack` for TypeScript, offering strong typing and advanced JavaScript features for scalable application development.
-- **Webpack Configuration**: Leverages `@premierstacks/webpack-stack` for asset bundling and optimization, tailored for React applications to ensure efficient loading and performance.
-- **PostCSS Configuration**: Uses `@premierstacks/postcss-stack` for transforming CSS with JavaScript, enabling features like autoprefixing and future CSS syntax.
-- **Development Tools**: Features predefined Makefile commands (`make local`, `make testing`, `make development`, `make staging`, `make production`, `make serve`, `make assets`, `make transpile`) for tasks such as linting, building, serving, and optimizing assets, facilitating a smooth development workflow.
-- **Scalable Project Structure**: The template is structured for scalability, accommodating a wide range of React projects, from single-page applications to complex web applications with multiple routes and components.
-- **Dotfiles**: Comes with essential configuration files (.gitignore, .editorconfig, .gitattributes, .prettierignore) pre-set to maintain a clean and consistent coding environment across various platforms and editors, ensuring smooth collaboration and integration.
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-## 🎬 Get Started
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-### 1️⃣ License Acquisition
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-### 2️⃣ Project Creation
+## Getting Started
 
-Use the `Use this template` button on the GitHub repository page to create a new repository from this template.<br />
-Select `Create a new repository` in the dropdown and follow the prompts.
+**1. Review the documentation and license**
 
-### 3️⃣ Customize Your Project
+Ensure this package fits your needs and that you agree with the terms.
 
-Explore the generated repository.<br />
-Remove unnecessary components and adjust it to fit your project's needs.
+**2. Obtain a license**
 
-### 4️⃣ Attribution
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-To comply with the license agreement regarding giving credits to the authors, please keep the `AUTHORS.md` file intact in your project repository.<br />
-Alternatively please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+**3. Project Creation**
 
-### 5️⃣ Usage
+Use the `Use this template` button on the GitHub repository page to create a new repository from this template.
 
-The template includes a Makefile with predefined goals to streamline development:
+Or clone the repository using the following command:
 
-```shell
-# Set up for environment-specific setups
-make local
-make testing
-make development
-make staging
-make production
-
-# Update all dependencies
-make update
-
-# Automatically fix code style issues
-make fix
-
-# Run linters and static analysis tools
-make check
-
-# Start a local development server
-make serve
-
-# Optimize assets
-make assets
-
-# Transpile code
-make transpile
+```bash
+git clone https://github.com/premierstacks/browser-webpack-typescript-app-template.git browser-webpack-typescript-app
 ```
 
-## The Author: Tomáš Chochola
+**4. Customize Your Project**
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+Explore the generated repository, remove unnecessary components and adjust it to fit your project's needs.
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+**5. CLI**
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Available make commands:
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+```bash
+# provision for local environment
+make local
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+# provision for testing (CI) environment
+make testing
 
-## 💰 Empower Innovation: Support and Subscribe
+# provision for development environment
+make development
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+# provision for staging environment
+make staging
 
-## 🤝 Join Forces with Tomáš Chochola
+# provision for production environment
+make production
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+# start webpack dev server
+make start / make serve / make server
+
+# run automatic code fixers
+make fix
+
+# run linters, static analysis, tests and audit
+make check
+
+# clean up the project
+make clean
+make distclean
+
+# run before every commit
+make commit
+
+# images/assets compression
+make compress
+```
+
+## About the Creator
+
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
+
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
+
+### Specializations
+
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
+
+## Contact
+
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
+
+## Tree
+
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
+
+```bash
+.
+├── .browserslistrc
+├── .editorconfig
+├── .gitattributes
+├── .gitignore
+├── .prettierignore
+├── .stylelintignore
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── assets
+│   └── favicon.ico
+├── eslint.config.js
+├── package.json
+├── postcss.config.js
+├── prettier.config.js
+├── public
+│   └── robots.txt
+├── src
+│   ├── App.tsx
+│   ├── index.html
+│   ├── index.scss
+│   ├── index.tsx
+│   ├── modules.d.ts
+│   └── routes
+│       ├── Index.tsx
+│       ├── NotFound.tsx
+│       └── RouteError.tsx
+├── stylelint.config.js
+├── tsconfig.json
+└── webpack.config.js
+
+4 directories, 27 files
+```
